@@ -7,4 +7,5 @@ Additionally, I put all functions I created and the structures' & enumerations' 
 
 
 Explanation:
-simple search - 
+simple search - search only the words
+advanced search - search sequences and exclude words from websites
